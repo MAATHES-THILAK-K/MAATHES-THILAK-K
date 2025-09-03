@@ -1,16 +1,30 @@
-## Hi there 👋
+# 👋 Hi, I'm Maathes Thilak  
 
-<!--
-**MAATHES-THILAK-K/MAATHES-THILAK-K** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💡 An Electronics & Communication Engineering student at **Anna University, MIT**  
+🔭 Passionate about **Embedded Systems, Space Tech, and Innovation**  
+⚡ Exploring **ESP32, STM32, Fusion 360, PCB Design, and AI**  
+🎯 Currently working on **200 Fusion 360 CAD Exercises (Daily Uploads)**  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 My Projects
+- 🛰️ [Satellite Concept Studies](#)  
+- 🕹️ [ESP32 Joystick Communication](#)  
+- ⌚ [Smartwatch PCB Design](#)  
+- 🤖 [Self-Balancing Robot](#)  
+- 🌐 [Fusion 360 CAD Exercises](#)  
+
+---
+
+## 📊 GitHub Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=MAATHES-THILAK-K&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MAATHES-THILAK-K&layout=compact&theme=radical)
+
+---
+
+## 🌍 Connect with Me  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/your-link)  
+[![Gmail](https://img.shields.io/badge/-Email-red?style=flat&logo=gmail&logoColor=white)](mailto:kmtthediscoverer96@gmail.com)  
+
+---
+⭐️ From [MAATHES-THILAK-K](https://github.com/MAATHES-THILAK-K)
