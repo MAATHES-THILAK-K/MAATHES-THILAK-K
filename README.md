@@ -25,19 +25,19 @@ Actively engaged in **hackathons and project exhibitions**, I constantly seek ha
 ## 🛠 Tech Stack  
 
 **💻 Languages**  
-- C  
-- C++  
-- Python  
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)  
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)  
 
 **🔌 Tools & Platforms**  
-- STM32CubeIDE (Basics)  
-- Arduino IDE  
-- KiCad  
-- Betaflight (Basics)  
-- SolidWorks  
-- Fusion 360  
-- Git  
-- GitHub  
+![STM32CubeIDE](https://img.shields.io/badge/STM32CubeIDE-03234B?style=flat&logo=stmicroelectronics&logoColor=white)  
+![Arduino IDE](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white)  
+![KiCad](https://img.shields.io/badge/KiCad-314CB0?style=flat&logo=kicad&logoColor=white)  
+![Betaflight](https://img.shields.io/badge/Betaflight-FFCC00?style=flat&logo=drone&logoColor=black)  
+![SolidWorks](https://img.shields.io/badge/SolidWorks-FF0000?style=flat&logo=dassaultsystemes&logoColor=white)  
+![Fusion 360](https://img.shields.io/badge/Fusion%20360-FF6A00?style=flat&logo=autodesk&logoColor=white)  
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)  
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)  
 
 ---
 
@@ -45,13 +45,12 @@ Actively engaged in **hackathons and project exhibitions**, I constantly seek ha
 
 ![Maathes’s GitHub stats](https://github-readme-stats.vercel.app/api?username=MAATHES-THILAK-K&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MAATHES-THILAK-K&layout=compact&theme=radical)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MAATHES-THILAK-K&theme=radical)  
 
-### 📈 Contribution Graph  
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=MAATHES-THILAK-K&theme=radical)  
+---
 
-### 🏆 Achievements  
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=MAATHES-THILAK-K&theme=radical&no-frame=false&no-bg=true&margin-w=4)  
+## 🔥 GitHub Streak  
+
+![GitHub Streak](https://streak-stats.demolab.com?user=MAATHES-THILAK-K&theme=highcontrast&fire=FF8C00&ring=FF8C00&currStreakLabel=FF8C00&sideLabels=FFFFFF&sideNums=FFFFFF&hide_border=true)  
 
 ---
 
