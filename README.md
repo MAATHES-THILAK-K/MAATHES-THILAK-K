@@ -1,8 +1,13 @@
-# 👋 Hi, I'm MAATHES THILAK K  
+<h1 align="center">👋 Hi, I'm Maathes Thilak</h1>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=F75C7E&center=true&vCenter=true&width=700&lines=Aspiring+Embedded+Systems+Developer;Passionate+about+ESP32+and+PCB+Design;Always+Innovating+%7C+Always+Learning)
+<!-- Typing Animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&color=00BFFF&center=true&vCenter=true&width=700&lines=Aspiring+Embedded+Systems+Developer;Passionate+about+ESP32+and+PCB+Design;Always+Innovating+%7C+Always+Learning" alt="Typing SVG" />
+</p>
 
-⚡ **Embedded Systems Developer in the Making | Space Tech Enthusiast | CAD Innovator**
+<p align="center">
+⚡ <b>Embedded Systems Developer in the Making | Space Tech Enthusiast | CAD Innovator</b>
+</p>
 
 ---
 
@@ -25,41 +30,57 @@ Actively engaged in **hackathons and project exhibitions**, I constantly seek ha
 ## 🛠 Tech Stack  
 
 **💻 Languages**  
-![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)  
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)  
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)  
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
 
 **🔌 Tools & Platforms**  
-![STM32CubeIDE](https://img.shields.io/badge/STM32CubeIDE-03234B?style=flat&logo=stmicroelectronics&logoColor=white)  
-![Arduino IDE](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white)  
-![KiCad](https://img.shields.io/badge/KiCad-314CB0?style=flat&logo=kicad&logoColor=white)  
-![Betaflight](https://img.shields.io/badge/Betaflight-FFCC00?style=flat&logo=drone&logoColor=black)  
-![SolidWorks](https://img.shields.io/badge/SolidWorks-FF0000?style=flat&logo=dassaultsystemes&logoColor=white)  
-![Fusion 360](https://img.shields.io/badge/Fusion%20360-FF6A00?style=flat&logo=autodesk&logoColor=white)  
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)  
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)  
+![STM32CubeIDE](https://img.shields.io/badge/STM32CubeIDE-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)  
+![Arduino IDE](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)  
+![KiCad](https://img.shields.io/badge/KiCad-314CB0?style=for-the-badge&logo=kicad&logoColor=white)  
+![Betaflight](https://img.shields.io/badge/Betaflight-FFCC00?style=for-the-badge&logo=drone&logoColor=black)  
+![SolidWorks](https://img.shields.io/badge/SolidWorks-FF0000?style=for-the-badge&logo=dassaultsystemes&logoColor=white)  
+![Fusion 360](https://img.shields.io/badge/Fusion%20360-FF6A00?style=for-the-badge&logo=autodesk&logoColor=white)  
+![ESP32](https://img.shields.io/badge/ESP32-black?style=for-the-badge&logo=espressif&logoColor=white)  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
+![VS Code](https://img.shields.io/badge/VS%20Code-0078d7?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)  
 
 ---
 
 ## 📊 GitHub Stats  
 
-![Maathes’s GitHub stats](https://github-readme-stats.vercel.app/api?username=MAATHES-THILAK-K&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MAATHES-THILAK-K&layout=compact&theme=radical)  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MAATHES-THILAK-K&show_icons=true&theme=radical" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MAATHES-THILAK-K&layout=compact&theme=radical" alt="Top Languages" />
+</p>
 
 ---
 
 ## 🔥 GitHub Streak  
 
-![GitHub Streak](https://streak-stats.demolab.com?user=MAATHES-THILAK-K&theme=highcontrast&fire=FF8C00&ring=FF8C00&currStreakLabel=FF8C00&sideLabels=FFFFFF&sideNums=FFFFFF&hide_border=true)  
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=MAATHES-THILAK-K&theme=highcontrast&fire=FF8C00&ring=FF8C00&currStreakLabel=FF8C00&sideLabels=FFFFFF&sideNums=FFFFFF&hide_border=true" alt="GitHub Streak" />
+</p>
 
 ---
 
 ## 📫 Connect with Me  
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/maathes-thilak-k/)  
-[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github)](https://github.com/MAATHES-THILAK-K)  
-[![GrabCAD](https://img.shields.io/badge/-GrabCAD-red?style=flat&logo=autodesk)](https://grabcad.com/maathes.thilak-1)  
-📧 **Email:** kmtthediscoverer96@gmail.com  
+<p align="left">
+  <a href="mailto:kmtthediscoverer96@gmail.com">
+    <img src="https://img.shields.io/badge/Email-kmtthediscoverer96%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/maathes-thilak-k/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/MAATHES-THILAK-K">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://grabcad.com/maathes.thilak-1">
+    <img src="https://img.shields.io/badge/GrabCAD-E2231A?style=for-the-badge&logo=autodesk&logoColor=white" />
+  </a>
+</p>
 
 ---
 
