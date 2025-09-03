@@ -13,13 +13,15 @@
 
 ## 🚀 About Me  
 
-I am an aspiring **Embedded Systems Developer** with a strong enthusiasm for **microcontrollers**, particularly the **ESP32 platform**.  
+👨‍🎓 I am an aspiring **Embedded Systems Developer** with a strong enthusiasm for **microcontrollers**, particularly the **ESP32 platform**.  
 
-Currently pursuing my **Bachelor’s in Electronics and Communication Engineering** at **Anna University, MIT Chennai**, I am deeply passionate about **space technology, PCB design, and hardware–software integration**.  
+📚 Currently pursuing my **Bachelor’s in Electronics and Communication Engineering** at **Anna University, MIT Chennai**, I am deeply passionate about **space technology 🛰️, PCB design ⚡, and hardware–software integration 🔗**.  
 
-Actively engaged in **hackathons and project exhibitions**, I constantly seek hands-on challenges that sharpen my technical and problem-solving skills.  
+🤝 Actively engaged in **hackathons** and **project exhibitions**, I constantly seek **hands-on challenges** that sharpen my technical and problem-solving skills.  
 
-🎯 My goal is to innovate by combining **academic foundations** with **practical experience** to contribute meaningfully to the electronics and embedded systems industry. I'm committed to **continuous learning** and collaborating on forward-thinking technology projects.  
+🎯 My goal is to **innovate** by combining **academic foundations** with **practical experience** to contribute meaningfully to the electronics and embedded systems industry.  
+
+📈 I’m committed to **continuous learning** and collaborating on **forward-thinking technology projects**.  
 
 🔗 Explore my open-source projects and designs:  
 - **GitHub**: [github.com/MAATHES-THILAK-K](https://github.com/MAATHES-THILAK-K)  
@@ -35,16 +37,18 @@ Actively engaged in **hackathons and project exhibitions**, I constantly seek ha
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
 
 **🔌 Tools & Platforms**  
-![STM32CubeIDE](https://img.shields.io/badge/STM32CubeIDE-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)  
-![Arduino IDE](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)  
-![KiCad](https://img.shields.io/badge/KiCad-314CB0?style=for-the-badge&logo=kicad&logoColor=white)  
-![Betaflight](https://img.shields.io/badge/Betaflight-FFCC00?style=for-the-badge&logo=drone&logoColor=black)  
-![SolidWorks](https://img.shields.io/badge/SolidWorks-FF0000?style=for-the-badge&logo=dassaultsystemes&logoColor=white)  
-![Fusion 360](https://img.shields.io/badge/Fusion%20360-FF6A00?style=for-the-badge&logo=autodesk&logoColor=white)  
-![ESP32](https://img.shields.io/badge/ESP32-black?style=for-the-badge&logo=espressif&logoColor=white)  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
-![VS Code](https://img.shields.io/badge/VS%20Code-0078d7?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)  
+<p align="left">
+  <img src="https://img.shields.io/badge/STM32CubeIDE-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white" />
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
+  <img src="https://img.shields.io/badge/KiCad-314CB0?style=for-the-badge&logo=kicad&logoColor=white" />
+  <img src="https://img.shields.io/badge/Betaflight-FFCC00?style=for-the-badge&logo=drone&logoColor=black" />
+  <img src="https://img.shields.io/badge/SolidWorks-FF0000?style=for-the-badge&logo=dassaultsystemes&logoColor=white" />
+  <img src="https://img.shields.io/badge/Fusion%20360-FF6A00?style=for-the-badge&logo=autodesk&logoColor=white" />
+  <img src="https://img.shields.io/badge/ESP32-black?style=for-the-badge&logo=espressif&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-0078d7?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+</p>
 
 ---
 
