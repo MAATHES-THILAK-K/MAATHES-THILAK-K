@@ -61,11 +61,12 @@
 
 ---
 
-## 🔥 GitHub Streak  
+## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=MAATHES-THILAK-K&theme=highcontrast&fire=FF8C00&ring=FF8C00&currStreakLabel=FF8C00&sideLabels=FFFFFF&sideNums=FFFFFF&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app?user=MAATHES-THILAK-K&theme=highcontrast&fire=FF8C00&ring=FF8C00&currStreakLabel=FF8C00&sideLabels=FFFFFF&sideNums=FFFFFF&hide_border=true" alt="GitHub streak stats for MAATHES-THILAK-K" />
 </p>
+
 
 ---
 
