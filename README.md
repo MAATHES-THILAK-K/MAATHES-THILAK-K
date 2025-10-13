@@ -2,7 +2,7 @@
 
 <!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&color=00BFFF&center=true&vCenter=true&width=700&lines=Aspiring+Embedded+Systems+Developer;Passionate+about+ESP32+and+PCB+Design;Always+Innovating+%7C+Always+Learning" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&color=00BFFF&center=true&vCenter=true&width=700&lines=Aspiring+Embedded+Systems+Developer;Passionate+about+Robotics+and+PCB+Design;Always+Innovating+%7C+Always+Learning" alt="Typing SVG" />
 </p>
 
 <p align="center">
