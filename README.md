@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-⚡ <b>Embedded Systems Developer in the Making | Space Tech Enthusiast | CAD Innovator</b>
+⚡ <b>Embedded Systems Developer in the Making | Space Tech Enthusiast | Enthuasistic in Robotics</b>
 </p>
 
 ---
