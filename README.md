@@ -52,15 +52,6 @@
 
 ---
 
-## 📊 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MAATHES-THILAK-K&show_icons=true&theme=radical" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MAATHES-THILAK-K&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
----
-
 ## 🔥 GitHub Streak
 
 <p align="center">
